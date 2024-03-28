@@ -41,15 +41,25 @@
 
 
  <h3>👨‍💻 My Coding Journey</h3>
-  I started my coding journey as a naive computer science student with a dream of learning everything I could about this programming world - code, and theory.
+ <p> I started my coding journey as a naive computer science student with a dream of learning everything I could about this programming world - code, and theory.
+</p>
 
+ <p>
 Due to the COVID-19 crisis, I had to drop out of college. Despite facing challenges I was not ready to give up on my dream of becoming a software developer I showed resilience and dedication. I was determined to continue learning on my own and gaining practical experience.
+</p>
+ <p>
 
 Starting with C and progressing through C#, PHP, and eventually diving into MERN stack development demonstrates a strong foundation in various technologies. I decided to join a small company and work on projects while simultaneously studying the MERN stack and converting company projects.
+</p>
+ <p>
 
 Attending a boot camp in Bangalore further enhanced my skills, allowing me to delve deeper into MERN stack development and explore advanced concepts like microservices, Docker, and Kubernetes. 
-
+</p>
+ <p>
+    
 The introduction to blockchain in Bangalore ignited a passion in me, leading me to delve deeper into its intricacies, particularly focusing on Ethereum Virtual Machine (EVM) development. Fuelled by curiosity and a thirst for knowledge, I immersed myself in programs like speedrunethereum.com and became an integral part of BuidlGuidl's esteemed Batch 3. Now, armed with a robust understanding of blockchain intricacies and practical experience from personal projects, I stand at the threshold of a new chapter – poised to venture into the professional landscape, seeking opportunities to apply my expertise and contribute meaningfully to the blockchain ecosystem.
+</p>
+
 
 ---
 

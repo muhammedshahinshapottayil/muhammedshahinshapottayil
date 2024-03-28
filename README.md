@@ -40,10 +40,10 @@
 ---
 
 
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+ <h3>👨‍💻 My Coding Journey</h3>
   I started my coding journey as a naive computer science student with a dream of learning everything I could about this programming world - code, and theory.
 
-Due to the COVID-19 crisis, I have to drop out of college. Despite facing challenges I was not ready to give up on my dream of becoming a software developer I showed resilience and dedication. I was determined to continue learning on my own and gaining practical experience.
+Due to the COVID-19 crisis, I had to drop out of college. Despite facing challenges I was not ready to give up on my dream of becoming a software developer I showed resilience and dedication. I was determined to continue learning on my own and gaining practical experience.
 
 Starting with C and progressing through C#, PHP, and eventually diving into MERN stack development demonstrates a strong foundation in various technologies. I decided to join a small company and work on projects while simultaneously studying the MERN stack and converting company projects.
 

@@ -4,7 +4,7 @@
 
 #### 📚 Education: Degree Dropout
 #### 🕰️ Experience: 4 Years in Development Field
-#### 🚀 Transforming from MERN Stack to Blockchain (EVM)
+#### 🚀 From MERN Stack to Blockchain (EVM)
 
    <div align="left"> 
   <a href="mailto:muhammedshahinshapottayil@gmail.com">
@@ -21,7 +21,7 @@
 ---
 
 ### 🧰 Languages and Tools
-
+<div>
 <img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
 <img align="left" alt="Hardhat" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -37,8 +37,9 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <br />
+</div>
 
-
+<div>
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
   I started my coding journey as a naive computer science student with a dream of learning everything I could about this programming world - code, and theory.
@@ -51,3 +52,4 @@ Attending a boot camp in Bangalore further enhanced my skills, allowing me to de
 
 The introduction to blockchain in Bangalore ignited a passion in me, leading me to delve deeper into its intricacies, particularly focusing on Ethereum Virtual Machine (EVM) development. Fuelled by curiosity and a thirst for knowledge, I immersed myself in programs like speedrunethereum.com and became an integral part of BuidlGuidl's esteemed Batch 3. Now, armed with a robust understanding of blockchain intricacies and practical experience from personal projects, I stand at the threshold of a new chapter – poised to venture into the professional landscape, seeking opportunities to apply my expertise and contribute meaningfully to the blockchain ecosystem.
 </details>
+</div>

@@ -36,7 +36,10 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <br />
-[![My Skills](https://skills.thijs.gg/icons?i=solidity,hardhat,foundry,ethersjs,graphql,mongodb,mysql,js,react,ts,next,expressjs,nodejs,git,github,jest,mocha,chai,docker&perline=13)](#)
+
+[![My Skills]
+
+(https://skills.thijs.gg/icons?i=solidity,hardhat,foundry,ethersjs,graphql,mongodb,mysql,js,react,ts,next,expressjs,nodejs,git,github,jest,mocha,chai,docker&perline=13)](#)
 
 
 ---

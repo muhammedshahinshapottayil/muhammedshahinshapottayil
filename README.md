@@ -38,7 +38,7 @@
 <br />
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=solidity,graphql,mongodb,mysql,js,react,ts,next,expressjs,nodejs,git,github,jest,mocha,chai,docker&perline=13)](#)
+[![My Skills](https://skills.thijs.gg/icons?i=solidity,graphql,mongodb,mysql,js,react,ts,next,expressjs,nodejs,git,github,jest,docker&perline=13)](#)
 
 
 ---

@@ -40,6 +40,7 @@
 [![My Skills]
 
 (https://skills.thijs.gg/icons?i=solidity,hardhat,foundry,ethersjs,graphql,mongodb,mysql,js,react,ts,next,expressjs,nodejs,git,github,jest,mocha,chai,docker&perline=13)](#)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
 
 
 ---

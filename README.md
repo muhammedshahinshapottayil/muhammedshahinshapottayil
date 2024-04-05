@@ -64,5 +64,6 @@ The introduction to blockchain in Bangalore ignited a passion in me, leading me 
 ---
 <h3>Current Working Personal Project</h3>
 <ul>
-   <li>ProdigiKill : A project which helps to avoid procastination</li>
+   Current Working Personal Project
+   <li>ProdigiKill: A project that helps to avoid procrastination.</li>
 </ul>

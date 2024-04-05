@@ -57,7 +57,10 @@ Attending a boot camp in Bangalore further enhanced my skills, allowing me to de
 </p>
  <p>
     
-The introduction to blockchain in Bangalore ignited a passion in me, leading me to delve deeper into its intricacies, particularly focusing on Ethereum Virtual Machine (EVM) development. Fuelled by curiosity and a thirst for knowledge, I immersed myself in programs like speedrunethereum.com and became an integral part of BuidlGuidl's esteemed Batch 3. Now, armed with a robust understanding of blockchain intricacies and practical experience from personal projects, I stand at the threshold of a new chapter – poised to venture into the professional landscape, seeking opportunities to apply my expertise and contribute meaningfully to the blockchain ecosystem.
+The introduction to blockchain in Bangalore ignited a passion in me, leading me to delve deeper into its intricacies, particularly focusing on Ethereum Virtual Machine (EVM) development. Fuelled by curiosity and a thirst for knowledge, I immersed myself in programs like speedrunethereum.com and became an integral part of BuidlGuidl's esteemed Batch 3. Now, armed with a robust understanding of blockchain intricacies and practical experience from personal projects, I stand at the threshold of a new chapter – poised to venture into the professional landscape, seeking opportunities to apply my expertise and contribute meaningfully to the blockchain ecosystem.</p>
+
+<p>
+Currently, I am advancing my skills by mastering Solidity and Yul and expertise in frameworks like Foundry, Hardhat, and Scaffold ETH 2. I am actively applying this knowledge to personal projects, honing my abilities, and expanding my practical experience in blockchain development.
 </p>
 
 ---

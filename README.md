@@ -60,9 +60,11 @@ Attending a boot camp in Bangalore further enhanced my skills, allowing me to de
 The introduction to blockchain in Bangalore ignited a passion in me, leading me to delve deeper into its intricacies, particularly focusing on Ethereum Virtual Machine (EVM) development. Fuelled by curiosity and a thirst for knowledge, I immersed myself in programs like speedrunethereum.com and became an integral part of BuidlGuidl's esteemed Batch 3. Now, armed with a robust understanding of blockchain intricacies and practical experience from personal projects, I stand at the threshold of a new chapter – poised to venture into the professional landscape, seeking opportunities to apply my expertise and contribute meaningfully to the blockchain ecosystem.
 </p>
 
-
 ---
+
 <h4>Current Working Personal Project</h4>
 <ul>
    <li>ProdigiKill: A project that helps to avoid procrastination.</li>
 </ul>
+
+---

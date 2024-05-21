@@ -39,28 +39,25 @@
 
 ---
 
+## 👨‍💻 My Coding Journey
 
- <h3>👨‍💻 My Coding Journey</h3>
- <p> I started my coding journey as a naive computer science student with a dream of learning everything I could about this programming world - code, and theory.
-</p>
+I embarked on my coding journey as a curious computer science student, eager to dive into the vast world of programming and theory. Despite facing significant challenges, including having to drop out of college due to the COVID-19 crisis, my passion for becoming a software developer never wavered. Fueled by resilience and dedication, I took my learning into my own hands, determined to turn my dreams into reality.
 
- <p>
-Due to the COVID-19 crisis, I had to drop out of college. Despite facing challenges I was not ready to give up on my dream of becoming a software developer I showed resilience and dedication. I was determined to continue learning on my own and gaining practical experience.
-</p>
- <p>
+### Early Beginnings
+I began with the basics, starting with C and quickly moving on to C# and PHP. Each new language added to my toolkit, laying a strong foundation in diverse technologies. My drive to learn and grow led me to join a small company, where I balanced working on real-world projects with studying the MERN stack. This hands-on experience was invaluable, allowing me to apply my theoretical knowledge to practical challenges and convert company projects successfully.
 
-Starting with C and progressing through C#, PHP, and eventually diving into MERN stack development demonstrates a strong foundation in various technologies. I decided to join a small company and work on projects while simultaneously studying the MERN stack and converting company projects.
-</p>
- <p>
+### Boot Camp and Advanced Learning
+My journey took a significant leap forward when I attended a boot camp in Bangalore. Here, I not only honed my MERN stack skills but also delved into advanced concepts like microservices, Docker, and Kubernetes. This intensive learning experience was a game-changer, equipping me with cutting-edge skills and a deeper understanding of modern software development.
 
-Attending a boot camp in Bangalore further enhanced my skills, allowing me to delve deeper into MERN stack development and explore advanced concepts like microservices, Docker, and Kubernetes. 
-</p>
- <p>
-    
-The introduction to blockchain in Bangalore ignited a passion in me, leading me to delve deeper into its intricacies, particularly focusing on Ethereum Virtual Machine (EVM) development. Fuelled by curiosity and a thirst for knowledge, I immersed myself in programs like speedrunethereum.com and became an integral part of BuidlGuidl's esteemed Batch 3. Now, armed with a robust understanding of blockchain intricacies and practical experience from personal projects, I stand at the threshold of a new chapter – poised to venture into the professional landscape, seeking opportunities to apply my expertise and contribute meaningfully to the blockchain ecosystem.</p>
+### Passion for Blockchain
+In Bangalore, I discovered my true passion: blockchain technology. The introduction to blockchain, particularly Ethereum Virtual Machine (EVM) development, ignited a spark in me. Driven by curiosity, I immersed myself in programs like speedrunethereum.com and became an integral part of BuidlGuidl's esteemed Batch 3. This journey deepened my expertise in blockchain, allowing me to master Solidity, Yul, and frameworks like Foundry, Hardhat, and Scaffold ETH 2.
 
-<p>
-Currently, I am advancing my skills by mastering Solidity and Yul and expertise in frameworks like Foundry, Hardhat, and Scaffold ETH 2. I am actively applying this knowledge to personal projects, honing my abilities, and expanding my practical experience in blockchain development.
-</p>
+### Current Endeavors
+Today, I am actively applying my blockchain knowledge to personal projects, constantly pushing the boundaries of what I can achieve. My robust understanding of blockchain intricacies, combined with practical experience, positions me as an expert ready to make a meaningful impact in the professional landscape. I am eager to contribute to the blockchain ecosystem, leveraging my skills to innovate and drive progress.
+
+### The Road Ahead
+As I stand on the threshold of this new chapter, I am excited and inspired by the endless possibilities ahead. My journey has taught me the power of perseverance, continuous learning, and the importance of staying true to one's passion. I am now ready to take on new challenges, collaborate with like-minded professionals, and contribute to groundbreaking projects in the blockchain space.
+
+Let's build the future together!
 
 ---

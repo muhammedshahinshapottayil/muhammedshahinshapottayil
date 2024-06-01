@@ -61,10 +61,6 @@ In Bangalore, I discovered my true calling: blockchain technology. The introduct
 
 ### IRSYS TECHNOLOGIES (MERN STACK DEVELOPER) — *APRIL 2021 – OCTOBER 2022*
 
-- Spearheaded the development of a comprehensive college management application, driving efficiency and user satisfaction through streamlined processes and enhanced UI.
-- Pioneered the transition to a MERN stack architecture, achieving increased speed and scalability, positioning the application for future growth.
-- Transformed the project into a commercial success, selling it to multiple colleges as an end-to-end solution, significantly boosting the company's reputation and profitability.
-
 ## 🎯 Current Endeavors
 
 Today, I am actively applying my blockchain expertise to personal projects, constantly pushing the boundaries of what's possible. My deep understanding of blockchain intricacies, combined with practical experience, positions me as an expert ready to make a meaningful impact in the professional landscape. I am eager to contribute to the blockchain ecosystem, leveraging my skills to innovate and drive progress.

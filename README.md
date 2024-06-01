@@ -40,35 +40,27 @@
 ---
 
 ## 👨‍💻 My Coding Journey
-
-As a curious computer science student, I embarked on a transformative coding journey, fueled by an unwavering passion for software development. Despite the challenges posed by the COVID-19 crisis, which led to dropping out of college, I turned adversity into opportunity. With resilience and dedication, I took charge of my learning, determined to turn my dreams into reality.
+As a self-taught developer, I embarked on a transformative coding journey fueled by an unwavering passion for software development. With resilience and determination, I took charge of my learning, embracing every opportunity to grow and excel in the world of technology.
 
 ### Early Beginnings
-
-Starting with the fundamentals of C, I quickly expanded my skill set to include C# and PHP. Each language added a new dimension to my abilities, forming a strong foundation in diverse technologies. Driven by an insatiable desire to learn and grow, I joined a small company where I balanced real-world projects with studying the MERN stack. This hands-on experience allowed me to apply theoretical knowledge to practical challenges, successfully converting company projects.
+Starting with the fundamentals of C, I quickly expanded my skill set to include C# and PHP. Each language added a new dimension to my abilities, forming a strong foundation in diverse technologies. Driven by an insatiable desire to learn and grow, I joined a small company where I balanced real-world projects with studying the MERN stack. This hands-on experience allowed me to apply theoretical knowledge to practical challenges, successfully delivering impactful solutions.
 
 ### Boot Camp and Advanced Learning
-
-My journey took a quantum leap forward when I attended a boot camp in Bangalore. Here, I not only refined my MERN stack skills but also delved into advanced concepts like microservices, Docker, and Kubernetes. This intensive learning experience was a game-changer, arming me with cutting-edge skills and a profound understanding of modern software development.
+My journey reached new heights when I attended a boot camp in Bangalore. Here, I not only refined my MERN stack skills but also delved into advanced concepts like microservices, Docker, and Kubernetes. This intensive learning experience was a game-changer, arming me with cutting-edge skills and a profound understanding of modern software development.
 
 ### Passion for Blockchain
-
 In Bangalore, I discovered my true calling: blockchain technology. The introduction to blockchain, particularly Ethereum Virtual Machine (EVM) development, ignited a spark within me. Driven by curiosity, I immersed myself in programs like speedrunethereum.com and became an integral part of BuidlGuidl's esteemed Batch 3. This journey deepened my expertise in blockchain, empowering me to master Solidity, Yul, and frameworks like Foundry, Hardhat, and Scaffold ETH 2.
 
 ## 💼 Experience
-
 ### IRSYS TECHNOLOGIES (MERN STACK DEVELOPER) — *APRIL 2021 – OCTOBER 2022*
 
 ## 🎯 Current Endeavors
-
 Today, I am actively applying my blockchain expertise to personal projects, constantly pushing the boundaries of what's possible. My deep understanding of blockchain intricacies, combined with practical experience, positions me as an expert ready to make a meaningful impact in the professional landscape. I am eager to contribute to the blockchain ecosystem, leveraging my skills to innovate and drive progress.
 
 ## 🔮 The Road Ahead
-
-As I stand on the threshold of this new chapter, I am excited and inspired by the endless possibilities that lie ahead. My journey has taught me the power of perseverance, continuous learning, and the importance of staying true to one's passion. I am now ready to embrace new challenges, collaborate with like-minded professionals, and contribute to groundbreaking projects in the blockchain space.
+As I stand on the threshold of this new chapter, I am excited and inspired by the endless possibilities that lie ahead. My self-taught journey has taught me the power of perseverance, continuous learning, and the importance of staying true to one's passion. I am now ready to embrace new challenges, collaborate with like-minded professionals, and contribute to groundbreaking projects in the blockchain space.
 
 ## 🛠️ Skills
-
 Blockchain, Ethereum, Solidity, Hardhat, Foundry, Subgraph, Chainlink, EVM, DApp, SE-2, Fullstack Developer, TypeScript, JavaScript, ReactJS, NextJS, Redux, NodeJS, ExpressJS, GraphQL, RESTful APIs, MongoDB, MySQL, Clean Architecture (Uncle Bob), Frontend, Backend.
 
 #### Together, let's build the future of Web3! 🌟

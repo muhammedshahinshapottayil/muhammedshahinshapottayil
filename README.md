@@ -2,7 +2,7 @@
 
 **`Blockchain Developer`**
 
-#### 📚 Education: Degree Dropout
+#### 📚 Education: Self-taught Developer
 #### 🕰️ Experience: 4 Years in Development Field
 #### 🚀 From MERN Stack to Blockchain (EVM)
  
@@ -51,7 +51,7 @@ My journey reached new heights when I attended a boot camp in Bangalore. Here, I
 ### Passion for Blockchain
 In Bangalore, I discovered my true calling: blockchain technology. The introduction to blockchain, particularly Ethereum Virtual Machine (EVM) development, ignited a spark within me. Driven by curiosity, I immersed myself in programs like speedrunethereum.com and became an integral part of BuidlGuidl's esteemed Batch 3. This journey deepened my expertise in blockchain, empowering me to master Solidity, Yul, and frameworks like Foundry, Hardhat, and Scaffold ETH 2.
 
-## 💼 Experience
+## 💼 Professional Experience
 ### IRSYS TECHNOLOGIES (MERN STACK DEVELOPER) — *APRIL 2021 – OCTOBER 2022*
 
 ## 🎯 Current Endeavors

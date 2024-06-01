@@ -39,8 +39,6 @@
 
 ---
 
-# 🚀 Blockchain Developer | Pioneering the Future of Web3
-
 ## 👨‍💻 My Coding Journey
 
 As a curious computer science student, I embarked on a transformative coding journey, fueled by an unwavering passion for software development. Despite the challenges posed by the COVID-19 crisis, which led to dropping out of college, I turned adversity into opportunity. With resilience and dedication, I took charge of my learning, determined to turn my dreams into reality.

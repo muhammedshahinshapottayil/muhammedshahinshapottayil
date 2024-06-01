@@ -93,4 +93,5 @@ Blockchain, Ethereum, Solidity, Hardhat, Foundry, Subgraph, Chainlink, EVM, DApp
   </a>
 </div>
 
+Together, let's build the future of Web3! 🌟
 

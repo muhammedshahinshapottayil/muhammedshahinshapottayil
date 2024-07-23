@@ -4,7 +4,11 @@
 
 #### 📚 Education: Self-taught Developer
 #### 🕰️ Experience: 4 Years in Development Field
-#### 🚀 From MERN Stack to Blockchain (EVM)
+#### 🚀 Career Path
+- Transitioned from MERN Stack to Blockchain (EVM)
+- Completed Encodes Advanced Solidity Bootcamp (June 24 - July 24)
+
+
  
    <div align="left"> 
   <a href="mailto:muhammedshahinshapottayil@gmail.com">
@@ -31,9 +35,6 @@
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="Mongo DB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="MYSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <br />
 

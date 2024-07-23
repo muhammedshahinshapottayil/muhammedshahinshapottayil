@@ -8,7 +8,7 @@
 - Transitioned from MERN Stack to Blockchain (EVM)
 - Completed Encodes Advanced Solidity Bootcamp (June 24 - July 24)
 
----
+--
  
    <div align="left"> 
   <a href="mailto:muhammedshahinshapottayil@gmail.com">

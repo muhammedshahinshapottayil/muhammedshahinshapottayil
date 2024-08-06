@@ -71,9 +71,6 @@ Today, I am actively applying my blockchain expertise to personal projects, cons
 ## 🔮 The Road Ahead
 As I stand on the threshold of this new chapter, I am excited and inspired by the endless possibilities that lie ahead. My self-taught journey has taught me the power of perseverance, continuous learning, and the importance of staying true to one's passion. I am now ready to embrace new challenges, collaborate with like-minded professionals, and contribute to groundbreaking projects in the blockchain space.
 
-## 🛠️ Skills
-Blockchain, Ethereum, Solidity, Hardhat, Foundry, Subgraph, Chainlink, EVM, DApp, SE-2, Fullstack Developer, TypeScript, JavaScript, ReactJS, NextJS, Redux, NodeJS, ExpressJS, GraphQL, RESTful APIs, MongoDB, MySQL, Clean Architecture (Uncle Bob), Frontend, Backend.
-
 #### Together, let's build the future of Web3! 🌟
 
 ---

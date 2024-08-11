@@ -24,6 +24,8 @@
 
 ### 🧰 Languages and Tools
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Julia / Yul](https://img.shields.io/badge/Julia%20/%20Yul-9558B2?style=flat-square&logo=julia&logoColor=white)
+![Huff](https://img.shields.io/badge/Huff-5A5A5A?style=flat-square&logo=huff&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-FFF04D?style=flat-square&logo=hardhat&logoColor=black)
 ![Foundry](https://img.shields.io/badge/-Foundry-3178C6?style=flat-square&logo=foundry&logoColor=white)
 ![Chainlink](https://img.shields.io/badge/-Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white)

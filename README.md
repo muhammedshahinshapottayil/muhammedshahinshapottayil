@@ -6,7 +6,7 @@
 #### 🕰️ Experience: 4 Years in Development Field
 #### 🚀 Career Path
 - Transitioned from MERN Stack to Blockchain (EVM)
-- Completed Encodes Advanced Solidity Bootcamp (June 24 - July 24)
+- Completed Encodes Advanced Solidity Bootcamp (June 24 - Aug 24)
 
 ----
  

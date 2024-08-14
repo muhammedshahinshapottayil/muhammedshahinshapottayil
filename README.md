@@ -1,6 +1,6 @@
 # 👨‍💻 Muhammed Shahinsha P 
 
-**`Blockchain Developer`**
+**`Blockchain Developer | Smart Contract Specialist | Web3 Enthusiast`**
 
 #### 📚 Education: Self-taught Developer
 #### 🕰️ Experience: 4 Years in Development Field
@@ -73,6 +73,7 @@ Self-taught developer passionate about blockchain technology. Progressed from C,
 
 ### IRSYS TECHNOLOGIES (MERN STACK DEVELOPER) — *APRIL 2021 – OCTOBER 2022*
 - Developed and maintained MERN stack applications
+- Gained experience with microservices architecture, Docker containerization, and Kubernetes orchestration
 
 ## 🎯 Current Focus
 

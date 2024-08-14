@@ -51,28 +51,35 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 ---
-
 ## 👨‍💻 My Coding Journey
-As a self-taught developer, I embarked on a transformative coding journey fueled by an unwavering passion for software development. With resilience and determination, I took charge of my learning, embracing every opportunity to grow and excel in the world of technology.
 
-### Early Beginnings
-Starting with the fundamentals of C, I quickly expanded my skill set to include C# and PHP. Each language added a new dimension to my abilities, forming a strong foundation in diverse technologies. Driven by an insatiable desire to learn and grow, I joined a small company where I balanced real-world projects with studying the MERN stack. This hands-on experience allowed me to apply theoretical knowledge to practical challenges, successfully delivering impactful solutions.
+Self-taught developer with a passion for blockchain technology. My journey has taken me from C, C#, and PHP to mastering the MERN stack, and finally to becoming a blockchain specialist.
 
-### Boot Camp and Advanced Learning
-My journey reached new heights when I attended a boot camp in Bangalore. Here, I not only refined my MERN stack skills but also delved into advanced concepts like microservices, Docker, and Kubernetes. This intensive learning experience was a game-changer, arming me with cutting-edge skills and a profound understanding of modern software development.
-
-### Passion for Blockchain
-In Bangalore, I discovered my true calling: blockchain technology. The introduction to blockchain, particularly Ethereum Virtual Machine (EVM) development, ignited a spark within me. Driven by curiosity, I immersed myself in programs like speedrunethereum.com and became an integral part of BuidlGuidl's esteemed Batch 3. This journey deepened my expertise in blockchain, empowering me to master Solidity, Yul, and frameworks like Foundry, Hardhat, and Scaffold ETH 2.
+### Key Milestones:
+- Started with C, C#, PHP
+- Mastered MERN stack
+- Attended boot camp in Bangalore, learning microservices, Docker, and Kubernetes
+- Discovered blockchain and EVM development
+- Participated in speedrunethereum.com and BuidlGuidl's Batch 3
 
 ## 💼 Professional Experience
+
 ### IRSYS TECHNOLOGIES (MERN STACK DEVELOPER) — *APRIL 2021 – OCTOBER 2022*
 
-## 🎯 Current Endeavors
-Today, I am actively applying my blockchain expertise to personal projects, constantly pushing the boundaries of what's possible. My deep understanding of blockchain intricacies, combined with practical experience, positions me as an expert ready to make a meaningful impact in the professional landscape. I am eager to contribute to the blockchain ecosystem, leveraging my skills to innovate and drive progress.
+## 🚀 Recent Achievements
 
-## 🔮 The Road Ahead
-As I stand on the threshold of this new chapter, I am excited and inspired by the endless possibilities that lie ahead. My self-taught journey has taught me the power of perseverance, continuous learning, and the importance of staying true to one's passion. I am now ready to embrace new challenges, collaborate with like-minded professionals, and contribute to groundbreaking projects in the blockchain space.
+- Mastered Yul and Huff for low-level EVM programming
+- Learned formal verification techniques for smart contracts
+- Completed the Encode Advanced Expert Solidity Bootcamp
+- Completed Buildspace's Nights & Weekends program
 
-#### Together, let's build the future of Web3! 🌟
+## 🎯 Current Project
 
+Developing an accountability-focused blockchain project with my brother, Ahmed Borwin, leveraging skills gained from Buildspace's program.
+
+## 🔮 Future Focus
+
+Continuing to innovate in the blockchain space, with a particular interest in advanced smart contract development, formal verification, and building impactful Web3 solutions.
+
+#### Let's build the decentralized future together! 🌟
 ---
